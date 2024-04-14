@@ -8,7 +8,11 @@
 
 
 Website: https://bitstogigs.com/
+
 YouTube: https://www.youtube.com/@bitstogigs
+
 X: https://x.com/bitstogigs
+
 Instagram: https://www.instagram.com/bitstogigs
+
 GitHub: https://github.com/BitsToGigs (Where we are at this moment)
