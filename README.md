@@ -1,12 +1,14 @@
-- 👋 Hi, I’m @BitsToGigs
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+👋 Hi, @BitsToGigs is a techno functional knowledge platform
 
-<!---
-BitsToGigs/BitsToGigs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👀 We post on software development, best practices, leadership, career, books and more
+
+📫 Please reach us on BitsToGigs.com. We are also on X, Instagram, LinkedIn, YouTube. 
+
+⚡ Fun fact: We post on all the things we think are useful in tech and functional space. 
+
+
+Website: https://bitstogigs.com/
+YouTube: https://www.youtube.com/@bitstogigs
+X: https://x.com/bitstogigs
+Instagram: https://www.instagram.com/bitstogigs
+GitHub: https://github.com/BitsToGigs (Where we are at this moment)
